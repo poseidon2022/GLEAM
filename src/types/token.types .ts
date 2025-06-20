@@ -1,4 +1,4 @@
-import type { TokenSchema } from "@/validator/token.validator";
+import { TokenSchema } from "@/validators/token.validator";
 import type { JwtPayload } from "jsonwebtoken";
 import type { Moment } from "moment";
 import type { z } from "zod";

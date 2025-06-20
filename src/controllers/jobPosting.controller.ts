@@ -1,4 +1,3 @@
-import { ServiceResponse } from "@/miidleware/serviceResponse";
 import { ApiError } from "@/miidleware/serviceResponse";
 import { StatusCodes } from "http-status-codes";
 import { catchAsync } from "@/utils/catchAsync.util";
